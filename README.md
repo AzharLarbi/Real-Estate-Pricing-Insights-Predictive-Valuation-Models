@@ -1,4 +1,4 @@
-# House-Price-Prediction-Kaggle-Competition-Advanced-Regression-Techniques-
+# House-Price-Prediction-Advanced-Regression-Techniques-
 
 This project aims to predict housing prices using advanced regression techniques, as part of a Kaggle competition. Utilizing multiple regression models and advanced feature engineering, the objective is to develop a model that accurately estimates the price of homes based on a range of numeric and categorical features.
 
