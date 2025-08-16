@@ -1,4 +1,4 @@
-# House Price Prediction – Advanced Regression Techniques
+# Real Estate Pricing Insights & Predictive Valuation Models
 
 ## Project Overview
 Accurate house price prediction is critical for **real estate developers, agents, and investors**. It guides listing strategies, informs renovation decisions, and helps buyers and sellers understand fair market value.  
